@@ -36,7 +36,6 @@ namespace LINQUnderstadings
             {
                 Console.WriteLine(p);
             }
-            Console.ReadLine();
         }
 
         //public void GetRestriction()
