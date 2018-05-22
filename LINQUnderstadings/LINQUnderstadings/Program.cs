@@ -28,7 +28,22 @@ namespace LINQUnderstadings
             //objprojection.GetSelectTransformation();
             Console.WriteLine("----------------Select Filtered-------------------");
             //objprojection.GetSelectFiltered();
+            Console.Write("---------Press Enter------------");
+            Console.ReadLine();
             /*------------------------------END-----------------------------------*/
+
+
+            /*--------------------Ordering Operator-----------------------------*/
+            Console.WriteLine("------------------Order BY operator---------------------");
+            OrderingOperator objordrOperator = new OrderingOperator();
+            objordrOperator.GetSimpleOrderby();
+            
+            //objordrOperator.GetOrderBy();
+            //Console.WriteLine("------------------Order BY operator Descending---------------------");
+            //objordrOperator.GetOrderBydescending();
+            Console.WriteLine("----------------------Reverse Operator-----------------------------");
+            objordrOperator.GetReverseOperator();
+            /*----------------------------END-----------------------------------*/
             Console.ReadLine();
         }
     }
