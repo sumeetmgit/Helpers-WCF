@@ -10,6 +10,10 @@ namespace LINQUnderstadings
     {
         static void Main(string[] args)
         {
+            RestrictionOperators objRestrictionOperators = new RestrictionOperators();
+
+            objRestrictionOperators.GetRestrictionSimple1();
+            objRestrictionOperators.GetRestrictionSimple2();
         }
     }
 }

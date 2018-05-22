@@ -1,0 +1,61 @@
+﻿<root>
+  <Persons>
+    <Name>Sumeet Manghani</Name>
+    <Age>25</Age>
+    <PhoneNo>9754778548</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Dheeraj Pahuja</Name>
+    <Age>24</Age>
+    <PhoneNo>989440512165</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Nitin Agrawal</Name>
+    <Age>25</Age>
+    <PhoneNo>21345446134</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>shraddha Jaroli</Name>
+    <Age>22</Age>
+    <PhoneNo>9564754778548</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Vicky Talreja</Name>
+    <Age>22</Age>
+    <PhoneNo>54645132724</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Ram Shah</Name>
+    <Age>25</Age>
+    <PhoneNo>97564454778548</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Arvind Kore</Name>
+    <Age>26</Age>
+    <PhoneNo>781587815874</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Hemant Jaiswal</Name>
+    <Age>27</Age>
+    <PhoneNo>4567845158</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Ashish</Name>
+    <Age>25</Age>
+    <PhoneNo>485645671</PhoneNo>
+  </Persons>
+
+  <Persons>
+    <Name>Ashwini Rajpurohit</Name>
+    <Age>28</Age>
+    <PhoneNo>975456768174</PhoneNo>
+  </Persons>
+</root>
